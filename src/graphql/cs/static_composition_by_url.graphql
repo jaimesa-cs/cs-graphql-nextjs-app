@@ -1,0 +1,8 @@
+query StaticPageByUrl($url: String!) {
+  all_static_composition(where: { url: $url }) {
+    items {
+      title
+      url
+    }
+  }
+}

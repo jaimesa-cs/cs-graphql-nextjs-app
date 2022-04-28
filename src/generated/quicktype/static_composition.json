@@ -1,0 +1,284 @@
+[
+  {
+    "_version": 29,
+    "locale": "en-us",
+    "uid": "blt244f7033eb05f04e",
+    "ACL": {},
+    "_in_progress": false,
+    "created_at": "2022-02-15T15:43:50.157Z",
+    "created_by": "bltfc7446948990d3af",
+    "currency": null,
+    "dynamic_blocks": [
+      {
+        "faq": {
+          "questions": [
+            {
+              "question": "How to contact with Customer Service?",
+              "_metadata": {
+                "uid": "cs96205ffb47dacb2d"
+              },
+              "answers": [
+                "<p>Our Customer Experience Team is available 7 days a week and we offer 2 ways to get in contact.Email and Chat . We try to reply quickly, so you need not to wait too long for a response!.</p>"
+              ]
+            },
+            {
+              "question": "App installation failed, how to update system information?",
+              "_metadata": {
+                "uid": "cs4799968d2e7898c6"
+              },
+              "answers": [
+                "<p>Please read the documentation carefully . We also have some online video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum</p>"
+              ]
+            },
+            {
+              "question": "Website response taking time, how to improve?",
+              "_metadata": {
+                "uid": "csf8fe7cd342b0ec65"
+              },
+              "answers": [
+                "<p>At first, Please check your internet connection . We also have some online video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum.</p>"
+              ]
+            }
+          ],
+          "_metadata": {
+            "uid": "csb922e646b902c041"
+          }
+        }
+      },
+      {
+        "mail_list_subscription": {
+          "email_subscription": [
+            {
+              "uid": "blt7456af5a6e015ed3",
+              "_content_type_uid": "email_subscription"
+            }
+          ],
+          "_metadata": {
+            "uid": "cs57d551ed473e27d9"
+          }
+        }
+      }
+    ],
+    "header": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Learn More",
+      "banner": [
+        {
+          "uid": "blt849840e22a4a273b",
+          "_content_type_uid": "header_banner"
+        }
+      ]
+    },
+    "locale_field": {
+      "select_locale": []
+    },
+    "system": {
+      "unpublish_at": null
+    },
+    "tags": ["faq", "static", "page"],
+    "title": "Frequently Asked Questions (FAQ)",
+    "type": "Static",
+    "updated_at": "2022-04-14T14:15:39.841Z",
+    "updated_by": "bltfc7446948990d3af",
+    "url": "/faq",
+    "publish_details": {
+      "environment": "blt753d88b7df4a0ee4",
+      "locale": "en-us",
+      "time": "2022-04-15T15:46:24.392Z",
+      "user": "bltfc7446948990d3af"
+    }
+  },
+  {
+    "_version": 70,
+    "locale": "en-us",
+    "uid": "blt5aacee1efd814f19",
+    "ACL": {},
+    "_in_progress": false,
+    "created_at": "2022-02-15T19:36:26.634Z",
+    "created_by": "bltfc7446948990d3af",
+    "currency": 59,
+    "dynamic_blocks": [
+      {
+        "paragraphs_with_links": {
+          "paragraphs": [
+            {
+              "title": "PURPOSE",
+              "_metadata": {
+                "uid": "csf6af60565e0272b3"
+              },
+              "paragraph": {
+                "uid": "a5a6dd89b24e428a9d3229f01106ec66",
+                "attrs": {},
+                "children": [
+                  {
+                    "type": "p",
+                    "attrs": {},
+                    "uid": "d7808ce0621a4b3dbd66937b0cb70e30",
+                    "children": [
+                      {
+                        "text": "Here I write something"
+                      }
+                    ]
+                  }
+                ],
+                "type": "doc",
+                "_version": 70
+              }
+            },
+            {
+              "title": "WHAT IS PERSONAL DATA?",
+              "_metadata": {
+                "uid": "csdc7476ab38fdda50"
+              },
+              "paragraph": {
+                "uid": "b9f08f00f37d48d680f001ab604f23c3",
+                "attrs": {},
+                "children": [
+                  {
+                    "type": "p",
+                    "attrs": {},
+                    "uid": "26d7b9f0fa73406fb8a83ae6c7119414",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ],
+                "type": "doc",
+                "_version": 70
+              }
+            },
+            {
+              "title": "PERSONAL DATA COLLECTED",
+              "_metadata": {
+                "uid": "cs02a838a09e8712ed"
+              },
+              "paragraph": {
+                "uid": "d66f17cef56040588e8d03d360cc1be7",
+                "attrs": {},
+                "children": [
+                  {
+                    "type": "p",
+                    "attrs": {},
+                    "uid": "6bbce56b11c04db4817b8391a93bde30",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ],
+                "type": "doc",
+                "_version": 70
+              }
+            },
+            {
+              "title": "ACCESSING YOUR PERSONAL DATA",
+              "_metadata": {
+                "uid": "csd789b479e03b1e3f"
+              },
+              "paragraph": {
+                "uid": "81229eeeca9447bf9a9d28f6fdcf4dd0",
+                "attrs": {},
+                "children": [
+                  {
+                    "type": "p",
+                    "attrs": {},
+                    "uid": "1367d273a94c4d0c9f2e9577f4537f1f",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ],
+                "type": "doc",
+                "_version": 70
+              }
+            },
+            {
+              "title": "COMPLAINTS",
+              "_metadata": {
+                "uid": "cs730f55b71d3cac51"
+              },
+              "paragraph": {
+                "uid": "b34d814492bf42ada13c8c1c02fa445b",
+                "attrs": {},
+                "children": [
+                  {
+                    "type": "p",
+                    "attrs": {},
+                    "uid": "a5b66c7434214ed5b0ad4269151f17b3",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ],
+                "type": "doc",
+                "_version": 70
+              }
+            },
+            {
+              "title": "OWNER AND DATA CONTROLLER",
+              "_metadata": {
+                "uid": "cs21d08933bc2ce7ed"
+              },
+              "paragraph": {
+                "uid": "f94609b4ef3445c49b794ee2fc8a030d",
+                "attrs": {},
+                "children": [
+                  {
+                    "type": "p",
+                    "attrs": {},
+                    "uid": "e8597ca677194787a1559fb6dfd25a66",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ],
+                "type": "doc",
+                "_version": 70
+              }
+            }
+          ],
+          "_metadata": {
+            "uid": "csd3b3ecb469397c59"
+          }
+        }
+      }
+    ],
+    "header": {
+      "title": "Privacy Policy",
+      "subtitle": "explore",
+      "banner": [
+        {
+          "uid": "blt9905e98ea609b75d",
+          "_content_type_uid": "header_banner"
+        }
+      ]
+    },
+    "locale_field": {
+      "select_locale": ["es-es"]
+    },
+    "system": {
+      "unpublish_at": "2022-03-25T04:00:00.000Z"
+    },
+    "tags": ["static", "page", "privacy", "policy", "legal"],
+    "title": "Privacy Policy",
+    "type": "Static",
+    "updated_at": "2022-04-13T12:36:30.537Z",
+    "updated_by": "bltfc7446948990d3af",
+    "url": "/privacy-policy",
+    "publish_details": {
+      "environment": "blt753d88b7df4a0ee4",
+      "locale": "en-us",
+      "time": "2022-04-15T15:46:24.412Z",
+      "user": "bltfc7446948990d3af"
+    }
+  }
+]

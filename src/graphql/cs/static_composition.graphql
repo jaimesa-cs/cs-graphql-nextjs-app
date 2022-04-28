@@ -1,0 +1,8 @@
+query AllStaticPages {
+  all_static_composition {
+    items {
+      title
+      url
+    }
+  }
+}

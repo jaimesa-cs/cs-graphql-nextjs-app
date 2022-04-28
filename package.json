@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "generate": "graphql-codegen",
+    "generate": "graphql-codegen --config codegen.yml",
+    "cs:generate": "graphql-codegen --config cscodegen.yml",
     "start": "next start",
     "lint": "next lint"
   },
@@ -15,7 +16,9 @@
     "@mantine/hooks": "^4.1.1",
     "@mantine/next": "^4.1.1",
     "apollo-server-micro": "^3.6.7",
+    "axios": "^0.27.2",
     "class-validator": "^0.13.2",
+    "dotenv": "^16.0.0",
     "graphql": "^15.3.0",
     "graphql-request": "^4.2.0",
     "micro": "^9.3.4",
